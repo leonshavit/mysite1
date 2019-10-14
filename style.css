@@ -1,0 +1,64 @@
+i {color: red}
+
+h1 {color: blue}
+
+h2 {
+color: green;
+}
+
+h3 {color: yellow;}
+
+table {
+  font-family: sans-serif;
+  text-align: left;
+  border-collapse: separate;
+  border-spacing: 5px;
+  background: #fff;
+  color: #fff;
+  border: 16px solid #ffffff;
+  border-radius: 3px;
+}
+
+
+th{
+  font-size: 18px;
+  padding: 10px;
+}
+
+
+td{
+  background: #fff;
+  padding: 10px;
+   color: #000;
+}
+
+
+.nav-a {
+color: red;
+display: block;
+
+}
+
+.nav-li {
+  display: inline;
+}
+
+.text1{
+  font-family: 'Mansalva', cursive;
+  ß
+}
+
+footer{
+  position: fixed;
+  width:100%;
+  bottom:  0;
+}
+.footer-content{
+  font-family:verdana;
+  font-size:10pt;
+  border-style:none;
+  border-width:10px;
+  border-color:white;
+  padding:20px;
+  background-color:#fff;
+}
